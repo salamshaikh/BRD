@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+docx2txt
+langchain
+chromadb
+openai
