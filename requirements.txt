@@ -1,6 +1,7 @@
 streamlit
 pymupdf
 docx2txt
-langchain
-chromadb
 openai
+langchain
+langchain-community
+chromadb
