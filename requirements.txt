@@ -1,8 +1,11 @@
 streamlit
 openai
-langchain
+langchain>=0.1.17
+langchain-community
 python-dotenv
 pdfplumber
 docx2txt
 chromadb
 PyPDF2
+tiktoken
+pydantic<2.0
